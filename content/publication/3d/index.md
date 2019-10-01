@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Self-Imitation Learning"
-authors: ["Junhyuk Oh*", "Yijie Guo*", "Satinder Singh", "Honglak Lee"]
-date: 2018-06-01
+title: "Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision"
+authors: ["Xinchen Yan","Jimei Yang", "Ersin Yumer", "Yijie Guo", "Honglak Lee"]
+date: 2016-12-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-01T08:40:25+08:00
+publishDate: 2019-10-01T08:47:18+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,11 +36,11 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://proceedings.mlr.press/v80/oh18b/oh18b.pdf
+url_pdf: http://papers.nips.cc/paper/6205-perspective-transformer-nets-learning-single-view-3d-object-reconstruction-without-3d-supervision
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: 
 url_slides:
 url_source:
 url_video:

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Self-Imitation Learning"
-authors: ["Junhyuk Oh*", "Yijie Guo*", "Satinder Singh", "Honglak Lee"]
+title: "Unsupervised Discovery of Object Landmarks as Structural Representations"
+authors: ["Yuting Zhang", "Yijie Guo", "Yixin Jin", "Yijun Luo", "Zhiyuan He", "Honglak Lee"]
 date: 2018-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-01T08:40:25+08:00
+publishDate: 2019-10-01T08:47:18+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,11 +36,11 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://proceedings.mlr.press/v80/oh18b/oh18b.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Unsupervised_Discovery_of_CVPR_2018_paper.html
 url_slides:
 url_source:
 url_video:
