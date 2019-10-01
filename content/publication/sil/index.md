@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Self-imitation learning"
-authors: Junhyuk Oh*, Yijie Guo*, Satinder Singh, Honglak Lee
+authors: ["Junhyuk Oh*", "Yijie Guo*", "Satinder Singh", "Honglak Lee"]
 date: 2018-06-01
 doi: ""
 
