@@ -3,8 +3,7 @@
 
 title: "Self-Imitation Learning"
 authors: ["Junhyuk Oh*", "Yijie Guo*", "Satinder Singh", "Honglak Lee"]
-#date: 2018-06-01
-date: 
+date: 2018-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

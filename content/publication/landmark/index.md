@@ -3,8 +3,7 @@
 
 title: "Unsupervised Discovery of Object Landmarks as Structural Representations"
 authors: ["Yuting Zhang", "Yijie Guo", "Yixin Jin", "Yijun Luo", "Zhiyuan He", "Honglak Lee"]
-#date: 2018-06-01
-date: 
+date: 2018-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
