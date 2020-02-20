@@ -16,7 +16,7 @@ publishDate: 2019-10-01T08:40:25+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "International Conference on Machine Learning, 2018" 
 publication_short: ""
 
 abstract: ""
@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: []
-categories: []
+categories: ["Poster"]
 featured: true
 
 # Custom links (optional).
