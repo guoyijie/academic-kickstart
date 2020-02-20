@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate of Artificial Intelligence
+role: PhD candidate of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   - course: PhD in CSE
     institution: University of Michigan, Ann Arbor
     year: 2017 - Present
-  - course: BS in CSE
+  - course: BS in Math, BS in Data Science
     institution: University of Michigan, Ann Arbor
     year: 2017
 
@@ -65,4 +65,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-My research interest lies in deep reinforcement learning, especially balancing the exploration and exploitation in difficult domains, and representation learning to improve sample efficiency and performance of RL algorithms.
+I am currently a third-year Ph.D student in University of Michigan, under supervison of Prof.Honglak Lee. My research interest lies in deep reinforcement learning, especially balancing the exploration and exploitation in difficult domains, and representation learning to improve sample efficiency and performance of RL algorithms.
