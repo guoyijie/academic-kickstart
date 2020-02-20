@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Conference on Computer Vision and Pattern Recognition, 2017"
-publication_short: ""
+publication_short: "CVPR 2017"
 
 abstract: ""
 

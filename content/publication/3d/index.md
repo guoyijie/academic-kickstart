@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Neural Information Processing Systems Conference, 2016"
-publication_short: ""
+publication_short: "NeurIPS 2016"
 
 abstract: ""
 

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Conference on Machine Learning, 2018" 
-publication_short: ""
+publication_short: "ICML 2018"
 
 abstract: ""
 

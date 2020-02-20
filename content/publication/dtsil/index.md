@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Deep Reinforcement Learning Workshop in Neural Information Processing Systems Conference, 2019"
-publication_short: ""
+publication_short: "DRL Workshop in NeurIPS 2019"
 
 abstract: ""
 

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Conference on Learning Representations, 2019"
-publication_short: ""
+publication_short: "ICLR 2019"
 
 abstract: ""
 
