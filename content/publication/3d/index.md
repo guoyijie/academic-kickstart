@@ -3,7 +3,8 @@
 
 title: "Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision"
 authors: ["Xinchen Yan","Jimei Yang", "Ersin Yumer", "Yijie Guo", "Honglak Lee"]
-date: 2016-12-01
+#date: 2016-12-01
+data: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +17,8 @@ publishDate: 2019-10-01T08:47:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Neural Information Processing Systems Conference, 2016"
-publication_short: ""
+publication: "Neural Information Processing Systems Conference"
+publication_short: "NeurIPS 2016"
 
 abstract: ""
 

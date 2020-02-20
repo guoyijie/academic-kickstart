@@ -3,7 +3,8 @@
 
 title: "Contingency-Aware Exploration in Reinforcement Learning"
 authors: ["Jongwook Choi*","Yijie Guo*","Marcin Lukasz Moczulski*", "Junhyuk Oh", "Neal Wu", "Mohammad Norouzi", "Honglak Lee"]
-date: 2018-11-01
+#date: 2018-11-01
+data: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +17,8 @@ publishDate: 2019-10-01T08:47:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Learning Representations, 2019"
-publication_short: ""
+publication: "International Conference on Learning Representations"
+publication_short: "ICLR 2019"
 
 abstract: ""
 

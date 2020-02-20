@@ -3,7 +3,8 @@
 
 title: "Self-Imitation Learning via Trajectory-Conditioned Policy for Hard-Exploration Tasks"
 authors: ["Yijie Guo", "Jongwook Choi", "Marcin Moczulski", "Samy Bengio", "Mohammad Norouzi", "Honglak Lee"]
-date: 2019-12-01
+#date: 2019-12-01
+date: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +17,8 @@ publishDate: 2019-10-01T08:40:25+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Deep Reinforcement Learning Workshop in Neural Information Processing Systems Conference, 2019"
-publication_short: ""
+publication: "Deep Reinforcement Learning Workshop in Neural Information Processing Systems Conference"
+publication_short: "DRL Workshop in NeurIPS 2019"
 
 abstract: ""
 
