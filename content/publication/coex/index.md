@@ -16,8 +16,8 @@ publishDate: 2019-10-01T08:47:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Learning Representations"
-publication_short: "ICLR 2019"
+publication: "International Conference on Learning Representations, 2019"
+publication_short: ""
 
 abstract: ""
 

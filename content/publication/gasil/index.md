@@ -16,8 +16,8 @@ publishDate: 2019-10-01T08:40:25+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Deep Reinforcement Learning Workshop in Neural Information Processing Systems Conference"
-publication_short: "DRL Workshop in NeurIPS 2018"
+publication: ""
+publication_short: ""
 
 abstract: ""
 
@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: []
-categories: ["Poster"]
+categories: []
 featured: true
 
 # Custom links (optional).

@@ -16,8 +16,8 @@ publishDate: 2019-10-01T08:47:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Conference on Computer Vision and Pattern Recognition"
-publication_short: "CVPR 2018"
+publication: "IEEE Conference on Computer Vision and Pattern Recognition, 2018"
+publication_short: ""
 
 abstract: ""
 

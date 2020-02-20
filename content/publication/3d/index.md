@@ -16,8 +16,8 @@ publishDate: 2019-10-01T08:47:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Neural Information Processing Systems Conference"
-publication_short: "NeurIPS 2016"
+publication: "Neural Information Processing Systems Conference, 2016"
+publication_short: ""
 
 abstract: ""
 
