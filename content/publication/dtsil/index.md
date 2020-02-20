@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://proceedings.mlr.press/v80/oh18b/oh18b.pdf
+url_pdf: https://arxiv.org/abs/1907.10247
 url_code:
 url_dataset:
 url_poster:
