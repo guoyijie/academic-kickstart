@@ -65,4 +65,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am currently a third-year Ph.D student in University of Michigan, under supervison of Prof.Honglak Lee. My research interest lies in deep reinforcement learning, especially balancing the exploration and exploitation in difficult domains, and representation learning to improve sample efficiency and performance of RL algorithms.
+I am currently a third-year Ph.D student in University of Michigan, under supervison of [Prof. Honglak Lee](https://web.eecs.umich.edu/~honglak/). My research interest lies in deep reinforcement learning, especially balancing the exploration and exploitation in difficult domains, and representation learning to improve sample efficiency and performance of RL algorithms.

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Contingency-Aware Exploration in Reinforcement Learning"
-authors: ["Jongwook Choi*","Yijie Guo*","Marcin Lukasz Moczulski*", "Junhyuk Oh", "Neal Wu", "Mohammad Norouzi", "Honglak Lee"]
+authors: ["Jongwook Choi*","**Yijie Guo***","Marcin Lukasz Moczulski*", "Junhyuk Oh", "Neal Wu", "Mohammad Norouzi", "Honglak Lee"]
 date: 2018-11-01
 doi: ""
 

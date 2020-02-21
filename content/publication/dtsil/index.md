@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Self-Imitation Learning via Trajectory-Conditioned Policy for Hard-Exploration Tasks"
-authors: ["Yijie Guo", "Jongwook Choi", "Marcin Moczulski", "Samy Bengio", "Mohammad Norouzi", "Honglak Lee"]
+authors: ["**Yijie Guo**", "Jongwook Choi", "Marcin Moczulski", "Samy Bengio", "Mohammad Norouzi", "Honglak Lee"]
 date: 2019-12-01
 doi: ""
 

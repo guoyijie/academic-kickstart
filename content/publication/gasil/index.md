@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Generative Adversarial Self-Imitation Learning"
-authors: ["Yijie Guo*", "Junhyuk Oh*", "Satinder Singh", "Honglak Lee"]
+authors: ["**Yijie Guo***", "Junhyuk Oh*", "Satinder Singh", "Honglak Lee"]
 date: 2018-12-01
 doi: ""
 

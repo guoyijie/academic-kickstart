@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision"
-authors: ["Xinchen Yan","Jimei Yang", "Ersin Yumer", "Yijie Guo", "Honglak Lee"]
+authors: ["Xinchen Yan","Jimei Yang", "Ersin Yumer", "**Yijie Guo**", "Honglak Lee"]
 date: 2016-12-01
 doi: ""
 

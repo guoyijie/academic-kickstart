@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Unsupervised Discovery of Object Landmarks as Structural Representations"
-authors: ["Yuting Zhang", "Yijie Guo", "Yixin Jin", "Yijun Luo", "Zhiyuan He", "Honglak Lee"]
+authors: ["Yuting Zhang", "**Yijie Guo**", "Yixin Jin", "Yijun Luo", "Zhiyuan He", "Honglak Lee"]
 date: 2018-06-01
 doi: ""
 

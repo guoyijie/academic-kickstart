@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Discriminative Bimodal Networks for Visual Localization and Detection With Natural Language Queries"
-authors: ["Yuting Zhang","Luyao Yuan", "Yijie Guo", "Zhiyuan He", "I-An Huang", "Honglak Lee"]
+authors: ["Yuting Zhang","Luyao Yuan", "**Yijie Guo**", "Zhiyuan He", "I-An Huang", "Honglak Lee"]
 date: 2017-06-01
 doi: ""
 
